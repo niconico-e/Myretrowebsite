@@ -38,3 +38,15 @@
     color: red;
     font-size: 35px;
 }
+.code{
+  padding-right: 30%;
+  padding-top: 5%;
+}
+.tag2{
+  color: red;
+  padding-top: 50%;
+  font-size: 35px;
+}
+.email{
+  color: blue;
+}
